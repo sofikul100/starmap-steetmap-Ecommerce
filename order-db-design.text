@@ -1,0 +1,32 @@
+========orders==========
+1.user_id
+2.customer_name
+3.customer_phone
+4.customer_email
+5.customer_country
+6.customer_address
+7.customer_zipcode
+8.customer_extra_phone --nullable
+9.customer_city
+10.subtotal
+11.total
+12.coupon_code
+13.coupon_discount
+14.after_discount
+15.payment_type
+16.tax
+17.shipping_charge
+18.order_id
+19.date
+20.month
+21.year
+22.status ---default=0
+
+
+=======order details ========
+1.order_id
+2.product_id
+3.product_name
+4.quantity
+5.single_price
+6.subtotal_price
